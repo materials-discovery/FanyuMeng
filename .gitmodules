@@ -1,0 +1,3 @@
+[submodule "ASE-Tutorials"]
+	path = ASE-Tutorials
+	url = https://github.com/UCL-DDMD/ASE-Tutorials.git
